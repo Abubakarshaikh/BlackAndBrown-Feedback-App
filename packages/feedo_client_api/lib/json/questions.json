@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "question": "Are you satisfied with the services?"
+    },
+    {
+        "id": "2",
+        "question": "Are you satisfied with the atmosphere and cleanliess?"
+    },
+    {
+        "id": "3",
+        "question": "Do you like our products in terms of taste & appearance?"
+    },
+    {
+        "id": "4",
+        "question": "Are you satisfied with the behavior & Attitude of our employes?"
+    },
+    {
+        "id": "5",
+        "question": "Do you like the grooming of our staff members?"
+    },
+    {
+        "id": "6",
+        "question": "Will you recommend our products to others?"
+    },
+    {
+        "id": "7",
+        "question": "Mention if anythings needs to be improved?"
+    },
+    {
+        "id": "8",
+        "question": "Rate us out of 10?"
+    }
+]

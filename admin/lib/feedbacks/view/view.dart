@@ -1,0 +1,1 @@
+export 'feedbacks_page.dart';

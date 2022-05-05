@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "branchId":"1",
+        "customerId":"1",
+        "questionId":"1",
+        "feedback":"true"
+    },
+    {
+        "id":"2",
+        "branchId":"1",
+        "customerId":"1",
+        "questionId":"2",
+        "feedback":"true"
+    },
+    {
+        "id":"3",
+        "branchId":"1",
+        "customerId":"1",
+        "questionId":"3",
+        "feedback":"true"
+    }
+]
