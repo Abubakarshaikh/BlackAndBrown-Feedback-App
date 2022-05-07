@@ -1,6 +1,6 @@
 name: feedo_repository
 version: 0.0.1
-publish_to: none
+
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
@@ -10,5 +10,3 @@ dependencies:
   equatable: ^2.0.3
   cloud_firestore: ^2.5.3
   uuid: ^3.0.5
-  feedo_client_api:
-    path: ../feedo_client_api
